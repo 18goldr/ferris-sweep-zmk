@@ -24,9 +24,9 @@
         
         layer1 {
           bindings = <
-            &kp KC_TILD &kp KP_ASTERISK &kp KP_MINUS &kp KC_EXLM &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none &none &kp KC_COLN 
-            &kp GRAVE &kp KP_PLUS &kp KC_UNDS &kp KP_EQUAL &kp KC_LCBR &kp KC_RCBR &none &kp KC_DLR &kp SINGLE_QUOTE &kp KC_DQUO 
-            &kp KC_PERC &kp KC_AMPR &kp KC_PIPE &kp KC_CIRC &kp KC_LPRN &kp KC_RPRN &none &kp KC_LT &kp KC_GT &kp KC_QUES
+            &kp TILDE &kp KP_ASTERISK &kp KP_MINUS &kp EXCL &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none &none &kp COLON 
+            &kp GRAVE &kp KP_PLUS &kp UNDERSCORE &kp KP_EQUAL &kp LEFT_BRACE &kp RIGHT_BRACE &none &kp DOLLAR &kp SINGLE_QUOTE &kp DOUBLE_QUOTES 
+            &kp PERCENT &kp AMPERSAND &kp PIPE &kp CARET &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &none &kp LESS_THAN &kp GREATER_THAN &kp QMARK
             &none &none &kp &kp CAPSLOCK &kp DELETE
           >;
         };
