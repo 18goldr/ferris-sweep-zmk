@@ -24,8 +24,8 @@
         
         layer1 {
           bindings = <
-            &kp TILDE &kp KP_ASTERISK &kp KP_MINUS &kp EXCL &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none &none &kp COLON 
-            &kp GRAVE &kp KP_PLUS &kp UNDERSCORE &kp KP_EQUAL &kp LEFT_BRACE &kp RIGHT_BRACE &none &kp DOLLAR &kp SINGLE_QUOTE &kp DOUBLE_QUOTES 
+            &kp TILDE &kp ASTERISK &kp MINUS &kp EXCL &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none &none &kp COLON 
+            &kp GRAVE &kp PLUS &kp UNDERSCORE &kp EQUAL &kp LEFT_BRACE &kp RIGHT_BRACE &none &kp DOLLAR &kp SINGLE_QUOTE &kp DOUBLE_QUOTES 
             &kp PERCENT &kp AMPERSAND &kp PIPE &kp CARET &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &none &kp LESS_THAN &kp GREATER_THAN &kp QMARK
             &none &none &kp &kp CAPSLOCK &kp DELETE
           >;
@@ -41,7 +41,7 @@
         layer3 {
           bindings = <
             &none &kp N7 &kp N8 &kp N9 &kp N0 &none &none &none &none &none 
-            &none &kp N4 &kp N5 &kp N6 &none &kp EQUAL &kp KC_PLUS &kp KP_MINUS &kp KP_ASTERISK &kp KP_SLASH 
+            &none &kp N4 &kp N5 &kp N6 &none &kp EQUAL &kp PLUS &kp MINUS &kp ASTERISK &kp SLASH 
             &none &kp N1 &kp N2 &kp N3 &none &none &none &kp COMMA &kp DOT &none &none &none &none &none
           >;
         };
