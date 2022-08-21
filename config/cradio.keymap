@@ -19,7 +19,7 @@
           >;
         };layer1 {
           bindings = <
-          KC_TILD &kp KP_ASTERISK &kp KP_MINUS KC_EXLM &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none &none KC_COLN &kp GRAVE &kp KP_PLUS KC_UNDS &kp KP_EQUAL KC_LCBR KC_RCBR &none KC_DLR &kp SINGLE_QUOTE KC_DQUO KC_PERC KC_AMPR KC_PIPE KC_CIRC KC_LPRN KC_RPRN &none KC_LT KC_GT KC_QUES &none &none &kp CAPSLOCK &kp DELETE
+          &kp KC_TILD &kp KP_ASTERISK &kp KP_MINUS KC_EXLM &kp LEFT_BRACKET &kp RIGHT_BRACKET &none &none &none KC_COLN &kp GRAVE &kp KP_PLUS KC_UNDS &kp KP_EQUAL KC_LCBR KC_RCBR &none KC_DLR &kp SINGLE_QUOTE KC_DQUO KC_PERC KC_AMPR KC_PIPE KC_CIRC KC_LPRN KC_RPRN &none KC_LT KC_GT KC_QUES &none &none &kp CAPSLOCK &kp DELETE
           >;
         };layer2 {
           bindings = <
